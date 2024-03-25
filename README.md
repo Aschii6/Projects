@@ -12,6 +12,6 @@ Vampire Survivors Copy: https://github.com/Aschii6/Vampire-Survivors-Copy
 
 C++, SFML, Animations, Assest Management
 
-Other project: https://github.com/Aschii6/Some-Small-Projects
+Other projects: https://github.com/Aschii6/Some-Small-Projects
 
 Consisting of: C++ projects with QT for GUI and other small games
