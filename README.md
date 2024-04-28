@@ -14,4 +14,4 @@ C++, SFML, Animations, Assest Management
 
 Other projects: https://github.com/Aschii6/Some-Small-Projects
 
-Consisting of: C++ projects with QT for GUI and other small games
+Consisting of: C++ projects with QT for GUI, Java projects with JavaFX and other small games
