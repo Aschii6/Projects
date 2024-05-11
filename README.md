@@ -1,17 +1,17 @@
 # Projects
 
-### Toy Social Network: https://github.com/Aschii6/Toy-Social-Network
+**Toy Social Network:** https://github.com/Aschii6/Toy-Social-Network
 
 Java, JavaFX, PostgreSQL
 
 (Work in progress)
-Employee Management: https://github.com/Aschii6/Employee-Management
+**Employee Management:** https://github.com/Aschii6/Employee-Management
 
-Platformer Game: https://github.com/Aschii6/Platformer
+**Platformer Game:** https://github.com/Aschii6/Platformer
 
 C++, SFML (Simple and Fast Multimedia Library), ECS (Entities Components Systems), Scene Management
 
-Vampire Survivors Copy: https://github.com/Aschii6/Vampire-Survivors-Copy
+**Vampire Survivors Copy:** https://github.com/Aschii6/Vampire-Survivors-Copy
 
 C++, SFML, Animations, Assest Management
 
