@@ -6,11 +6,11 @@
 
 **Triathlon Management in Java:**
 
-> Java, JavaFX, Sqlite, networking using RPC Protocol and Protobuf, ORM, REST services, React.
+> Java, JavaFX, Sqlite, networking using RPC Protocol and Protobuf, ORM, REST services, React
 
 **Triathlon Management in C#:**
 
-> C#, Windows Forms, networking using Object Protocol
+> C#, Windows Forms, networking using Object Protocol and Protobuf
 
 **Employee Management:** https://github.com/Aschii6/Employee-Management
 
