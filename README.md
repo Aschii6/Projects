@@ -4,7 +4,6 @@
 
 Java, JavaFX, PostgreSQL
 
-(Work in progress)
 **Employee Management:** https://github.com/Aschii6/Employee-Management
 
 **Platformer Game:** https://github.com/Aschii6/Platformer
