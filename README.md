@@ -1,7 +1,7 @@
 # Projects
 
 **Farming Assistant:** https://github.com/Cozma-Alex/Frontend-Farming-Assistant
-> Flutter, Dart
+> Flutter, Dart</br>
 University Project where a team of 10 students worked for a full semester, for the course Collective Project. Alongside 2 other colleagues, I worked on Front End, where I contributed to all Task related pages, a weather widget that uses and API from OpenWeather and more...
 
 **Outdoor Sustenabil**
