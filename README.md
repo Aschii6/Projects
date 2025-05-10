@@ -52,6 +52,8 @@ I made heavy use of the Entity Component Template to abstract some features away
 
 **Block Drop:** https://github.com/Aschii6/Block-Drop
 
+**Sokoban:** https://github.com/Aschii6/Sokoban
+
 ## And
 Other projects: https://github.com/Aschii6/Some-Small-Projects
 Consisting of: C++ projects with QT for GUI, Java projects with JavaFX and other small games
