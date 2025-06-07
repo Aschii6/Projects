@@ -1,4 +1,7 @@
 # Projects
+## Bachelor's Thesis
+Included soon
+
 ## Software
 **Farming Assistant:** https://github.com/Cozma-Alex/Frontend-Farming-Assistant
 > Flutter, Dart
