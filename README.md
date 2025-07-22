@@ -1,6 +1,23 @@
 # Projects
 ## Bachelor's Thesis
-Included soon
+**Spoiler detection, a solution refined for specific titles**
+
+*ABSTRACT:* ```Spoiler content in online discussions, reviews, or anywhere else on the internet
+can have a negative impact on the experience of some people, ruining their enjoyment with the possibility of affecting the commercialisation of creative works. This
+thesis aims to address the challenge of automatically detecting spoilers in text content, with a focus on online reviews, by exploring varying machine learning methods, as well as to offer a resolution in the form of an application for everyday use.
+The research begins with a comparative study of well-established methods from
+existing literature applied to spoiler classification, i.e. Support Vector Machines,
+Convolutional Neural Networks, Recurrent Neural Networks, transformer-based
+models, and Graph Neural Networks. A series of experiments are conducted to
+compare the approaches in these papers and present a new study on their effectiveness. Further experiments attempt to fine-tune models on distinct movie titles,
+offering a solution meant to excel at detecting spoilers related to their respective title; experiments which, as far as the literature reviewed to date suggests, have yet
+to be attempted.
+To offer some practicality to the solution produced by the research, a Google
+Chrome browser extension was developed to hide textual content from the body of
+webpages, using the tools offered from Google, mainly the Chrome API. With the
+content of webpages being exposed by the said API, the task of predicting spoilers
+is managed by a specialised spoiler prediction API server, with which the extension
+communicates.```
 
 ## Software
 **Farming Assistant:** https://github.com/Cozma-Alex/Frontend-Farming-Assistant
