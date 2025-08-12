@@ -70,13 +70,13 @@ Predicting user mental state based on physiological data from wrist devices.
 
 ## Some games
 ### Made using Godot (a game engine)
+**Dungeon Crawler:** https://github.com/Aschii6/dungeon-crawler
+
 **Tower Defense:** https://github.com/Aschii6/TowerDefenseGodot
 
 **Block Drop:** https://github.com/Aschii6/Block-Drop
 
 **Sokoban:** https://github.com/Aschii6/Sokoban
-
-**Dungeon Crawler:** https://github.com/Aschii6/dungeon-crawler
 
 ### Made using SFML (a low level C++ library)
 
