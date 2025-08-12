@@ -69,6 +69,15 @@ Predicting user mental state based on physiological data from wrist devices.
 > CNN, MNIST Dataset
 
 ## Some games
+### Made using Godot (a game engine)
+**Tower Defense:** https://github.com/Aschii6/TowerDefenseGodot
+
+**Block Drop:** https://github.com/Aschii6/Block-Drop
+
+**Sokoban:** https://github.com/Aschii6/Sokoban
+
+**Dungeon Crawler:** https://github.com/Aschii6/dungeon-crawler
+
 ### Made using SFML (a low level C++ library)
 
 **Platformer Game:** https://github.com/Aschii6/Platformer
@@ -78,15 +87,6 @@ I made heavy use of the Entity Component Template to abstract some features away
 
 **Vampire Survivors Copy:** https://github.com/Aschii6/Vampire-Survivors-Copy
 > C++, SFML, Animations, Assest Management
-
-### Made using Godot (a game engine)
-**Tower Defense:** https://github.com/Aschii6/TowerDefenseGodot
-
-**Block Drop:** https://github.com/Aschii6/Block-Drop
-
-**Sokoban:** https://github.com/Aschii6/Sokoban
-
-**Dungeon Crawler:** https://github.com/Aschii6/dungeon-crawler
 
 ## And
 Other projects: https://github.com/Aschii6/Some-Small-Projects
