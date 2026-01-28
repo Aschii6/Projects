@@ -42,6 +42,11 @@ University Project where a team of 10 students worked for a full semester, for t
 
 My internship project at CS InnoHub (an organization that is part of UBB), where I worked alongside 4 other students and a mentor to develop an application meant to keep track and alert users of the presence of bears nearby, a project made for The Faculty of Environmental Science and Engineering.
 
+**Movie Manager:** https://github.com/Aschii6/UBB_RO/tree/main/Sem5/PDM/Ionic/Ionic3
+
+Add and review movies
+> Ionic React, Auth (Token, Private Route), Context, Routing
+
 **Compiler:** https://github.com/Aschii6/Compiler
 > Lexical and syntax analysis in Java for a subset language of C++ and using Flex + Bison to generate Assembly Code
 
