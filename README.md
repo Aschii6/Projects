@@ -35,7 +35,6 @@ Jobbble - the Job Application Tracker. Basically what I wished I had used when I
 
 You can keep track of companies, application processes and the steps involved in each process.
 
-### Backend
 **Jobbble Spring:** https://github.com/Aschii6/jobbble-spring
 > Java, Spring Boot, Spring JPA & Hibernate with Postgres, Spring Security, JWT, Spring Validation, MapStruct
 > Entities, DTOs, Repositories, Services, Controllers, Custom Exceptions and Global Controller Exception Handling
@@ -44,11 +43,10 @@ Requests that want to access protected routes need to include a JWT token in the
 
 Users can only access and alter data that they created.
 
-### Frontend
 **Jobbble React:** https://github.com/Aschii6/jobbble-react
 > Vite, React, TypeScript, TanStack Router, TanStack Query, Zustand, ShadCN, Tailwind, React Hook Form, Zod
 
-<br/>
+***
 
 **Farming Assistant:** https://github.com/Cozma-Alex/Frontend-Farming-Assistant
 > Flutter, Dart
