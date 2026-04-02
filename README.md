@@ -116,7 +116,3 @@ I made heavy use of the Entity Component Template to abstract some features away
 
 **Vampire Survivors Copy:** https://github.com/Aschii6/Vampire-Survivors-Copy
 > C++, SFML, Animations, Assest Management
-
-## And
-Other projects: https://github.com/Aschii6/Some-Small-Projects
-Consisting of: C++ projects with QT for GUI, Java projects with JavaFX and other small games
