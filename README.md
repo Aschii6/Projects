@@ -68,4 +68,6 @@
 - Custom Networking, through TCP, using **RPC Protocol, Object Protocol, and Protobuf**
 
 ## Machine Learning
-### [Spoiler Detection]()
+### [Spoiler Detection](#bachelors-thesis---spoiler-detection-a-solution-refined-for-specific-titles)
+
+- **Bachelor's Thesis, listed above**
