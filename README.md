@@ -14,20 +14,20 @@
 ### [Spoiler Fighter](https://github.com/Aschii6/Spoiler-Fighter) - the Chrome Extension
 [![Tech Stack - TS, React, MUI, TailwindCSS](https://skillicons.dev/icons?i=ts,react,materialui,tailwind)](https://skillicons.dev)
 
-- Also got to learn and work with the **Chrome API** for extensions.
+- Also got to learn and work with the **Chrome API** for extensions
 
 ### Spoiler Detection
 [![Tech Stack - Python, PyTorch](https://skillicons.dev/icons?i=python,pytorch)](https://skillicons.dev)
 
-- NLP study for spoiler classification using **SVM, CNN, RNN, and BERT**.
+- NLP study for spoiler classification using **SVM, CNN, RNN, and BERT**
 
 ### Spoiler Prediction Server
 [![Tech Stack - Python, FastAPI](https://skillicons.dev/icons?i=python,fastapi)](https://skillicons.dev)
 
 ## Software Engineering
 ### Jobbble
-- Jobbble - the Job Application Tracker. Basically what I wished I had used when I started the intern/job hunt.
-- You can keep track of companies, application processes and the steps involved in each process.
+- Jobbble - the Job Application Tracker. Basically what I wished I had used when I started the intern/job hunt
+- You can keep track of companies, application processes and the steps involved in each process
 
 #### [Jobbble Spring](https://github.com/Aschii6/jobbble-spring)
 [![Tech Stack - Java, Spring, Hibernate, Postgres](https://skillicons.dev/icons?i=java,spring,hibernate,postgres)](https://skillicons.dev)
@@ -43,17 +43,17 @@
 ### Sustainable Outdoor - *CS InnoHub Internship*
 [![Tech Stack - Dart, Flutter, Git](https://skillicons.dev/icons?i=dart,flutter,git)](https://skillicons.dev)
 
-- My internship project at CS InnoHub where I worked alongside 4 other students and a mentor to develop an application meant to keep track and alert users of the presence of bears nearby.
+- My internship project at CS InnoHub where I worked alongside 4 other students and a mentor to develop an application meant to keep track and alert users of the presence of bears nearby
 
 ### [Farming Assistant](https://github.com/Cozma-Alex/Frontend-Farming-Assistant)
 [![Tech Stack - Dart, Flutter, Git](https://skillicons.dev/icons?i=dart,flutter,git)](https://skillicons.dev)
 
-- University Project where a team of 10 students worked for a full semester, for the course Collective Project. Alongside 2 other colleagues, I worked on Front End, where I contributed to all Task related pages, a weather widget that uses and API from OpenWeather and more.
+- University Project where a team of 10 students worked for a full semester, for the course Collective Project. Alongside 2 other colleagues, I worked on Front End, where I contributed to all Task related pages, a weather widget that uses and API from OpenWeather and more
 
 ### [Comment Thread](https://github.com/Aschii6/lit-comment-thread)
 [![Tech Stack - Lit, React](https://skillicons.dev/icons?i=lit,react)](https://skillicons.dev)
 
-- Created a **Web Component**, using Lit and React, for a Comment Thread.
+- Created a **Web Component**, using Lit and React, for a Comment Thread
 - **Released on GitHub** and **published on NPM**
 
 ### [Compiler](https://github.com/Aschii6/Compiler)
@@ -71,3 +71,18 @@
 ### [Spoiler Detection](#bachelors-thesis---spoiler-detection-a-solution-refined-for-specific-titles)
 
 - **Bachelor's Thesis, listed above**
+
+### Predictive Mental Health Monitoring System
+
+- Predicting a person's mental health based on physiological data from their wrist device
+- **RNN and LSTM**
+
+## Game Dev
+### With Godot
+[![Tech Stack - Godot](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
+
+- [Sokoban](https://github.com/Aschii6/Sokoban)
+- [Dungeon Crawler](https://github.com/Aschii6/dungeon-crawler)
+- [Block Drop](https://github.com/Aschii6/Block-Drop)
+- [We Cookin'](https://globalgamejam.org/games/2026/we-cookin-5) Global Game Jam 2026 - Transylvania Game Dev (Cluj-Napoca) - 2nd place
+- [Tower Defense](https://github.com/Aschii6/TowerDefenseGodot)
